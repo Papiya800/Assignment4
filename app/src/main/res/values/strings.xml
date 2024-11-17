@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="subject_array">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+
+    <string-array name="math_topics">
+        <item>Algebra</item>
+        <item>Calculus</item>
+        <item>Geometry</item>
+    </string-array>
+
+    <string-array name="physics_topics">
+        <item>Mechanics</item>
+        <item>Electromagnetism</item>
+        <item>Optics</item>
+    </string-array>
+
+    <string-array name="chemistry_topics">
+        <item>Organic Chemistry</item>
+        <item>Inorganic Chemistry</item>
+        <item>Physical Chemistry</item>
+    </string-array>
+</resources>

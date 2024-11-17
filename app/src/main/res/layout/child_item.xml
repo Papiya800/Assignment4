@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/childTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#F83E03"
+        android:text="Child Item"
+        android:paddingStart="12dp"
+        android:fontFamily="sans-serif" />
+</RelativeLayout>
